@@ -21,7 +21,7 @@ is Copyright (C) 1992 Rickard E. Faith.
 
 The files
 	dumpkeys.c loadkeys.y loadkeys.analyze.l ksyms.c ksyms.h
-	showkey.c keymaps.5 loadkeys.1 dumpkeys.1 showkey.1
+	showkeyonce.c keymaps.5 loadkeys.1 dumpkeys.1 showkey.1
 are Copyright (C) 1993 Risto Kankkunen.
 
 The files
@@ -69,6 +69,7 @@ The files
 is Copyright (C) 1994-1998 Michael K. Johnson <johnsonm@redhat.com>
    Copyright (C) 2002-2006 Dmitry V. Levin <ldv@altlinux.org>
 
-The file
-	   .vscode/settings.json
-is Copyright © 2026 Guzio and is exceptionally licensed under MIT, instead of GPLv2 like everything else in the project.
+The files
+	   .vscode/settings.json showkeyonce.c
+are Copyright © 2026 Guzio,
+VSCode settings are exceptionally licensed under MIT, instead of GPLv2 like everything else in the project.

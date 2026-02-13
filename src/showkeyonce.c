@@ -21,7 +21,7 @@ static int oldkbmode;
 static struct termios old;
 
 /*
- * version 0.81 of showkey would restore kbmode unconditially to XLATE,
+ * version 0.81 of showkey would restore kbmode unconditionally to XLATE,
  * thus making the console unusable when it was called under X.
  */
 static void
