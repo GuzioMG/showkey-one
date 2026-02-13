@@ -68,3 +68,7 @@ The files
        auth.c pam_auth.h pam.c parse.c screen.c username.c vlock.c vlock.h vt.c
 is Copyright (C) 1994-1998 Michael K. Johnson <johnsonm@redhat.com>
    Copyright (C) 2002-2006 Dmitry V. Levin <ldv@altlinux.org>
+
+The file
+	   .vscode/settings.json
+is Copyright © 2026 Guzio and is exceptionally licensed under MIT, instead of GPLv2 like everything else in the project.

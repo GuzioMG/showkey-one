@@ -19,4 +19,3 @@ recompiled with `./configure; make`
 
 `make dist-gzip` (or -bzip2) creates a tarball that can be configured and
 compiled without running `./autogen.sh`
-

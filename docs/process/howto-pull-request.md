@@ -68,4 +68,3 @@ git push yourgit --force textual:textual
 
 The contributor branch tends to need --force every now and then, don't be afraid
 using it.
-

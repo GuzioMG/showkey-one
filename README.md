@@ -90,3 +90,5 @@ License
 
 Kbd is licensed under the GNU General Public License (GPL), version 2, or at
 your option any later version.
+
+`.vscode/settings.json` is licensed under MIT
