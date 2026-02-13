@@ -262,7 +262,6 @@ int main(int argc, char *argv[])
 
 	/* show keycodes - 2.6 allows 3-byte reports */
 	while (1) {
-		alarm((unsigned int) timeout);
 		n = read(fd, buf, sizeof(buf));
 		i = 0;
 		while (i < n) {
@@ -281,6 +280,7 @@ int main(int argc, char *argv[])
 			}
 			printf(_("keycode %3d %s\n"), kc, s);
 		}
+		break;
 	}
 
 	clean_up();
